@@ -1,7 +1,11 @@
-Senin : GIT
+Senin : GIT(Branch,Merge)
+Senin : Desain Antarmuka (Wireframe)
 Selasa : SIM (Sistem Informasi Manajemen)
 
 Kamis : GNS3
 Jumat : Triger DB
+Sabtu : kukuh Tugas kelompok UI
+Minggu : kukuh Tugas Kelompok Basis Data Lanjut 
 
-INI FILENYA MASTER
+
+INI FILENYA BRANCH
