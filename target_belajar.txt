@@ -1,4 +1,8 @@
-Senin : Bootstrap,GIT
+Senin : GIT(Branch,Merge)
+Senin : Desain Antarmuka (Wireframe)
 Selasa : SIM (Sistem Informasi Manajemen)
-Rabu : kosong
+
 Kamis : GNS3
+Jumat : Triger DB
+Sabtu : kukuh Tugas kelompok UI
+Minggu : kukuh Tugas Kelompok Basis Data Lanjut 
